@@ -3670,7 +3670,7 @@ Other Style Guides
   - [jQuery Find vs Context, Selector](https://jsperf.com/jquery-find-vs-context-sel/13)
   - [innerHTML vs textContent for script text](https://jsperf.com/innerhtml-vs-textcontent-for-script-text)
   - [Long String Concatenation](https://jsperf.com/ya-string-concat)
-  - [Are Javascript functions like `map()`, `reduce()`, and `filter()` optimized for traversing arrays?](https://www.quora.com/JavaScript-programming-language-Are-Javascript-functions-like-map-reduce-and-filter-already-optimized-for-traversing-array/answer/Quildreen-Motta)
+  - [Are JavaScript functions like `map()`, `reduce()`, and `filter()` optimized for traversing arrays?](https://www.quora.com/JavaScript-programming-language-Are-Javascript-functions-like-map-reduce-and-filter-already-optimized-for-traversing-array/answer/Quildreen-Motta)
   - Loading...
 
 **[⬆ back to top](#table-of-contents)**
@@ -3697,7 +3697,8 @@ Other Style Guides
 
 **Other Style Guides**
 
-  - [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
+  - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+  - [Google JavaScript Style Guide (Old)](https://google.github.io/styleguide/javascriptguide.xml)
   - [jQuery Core Style Guidelines](https://contribute.jquery.org/style-guide/js/)
   - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
   - [StandardJS](https://standardjs.com)
@@ -3800,6 +3801,7 @@ Other Style Guides
   - **GreenChef**: [greenchef/javascript](https://github.com/greenchef/javascript)
   - **Grooveshark**: [grooveshark/javascript](https://github.com/grooveshark/javascript)
   - **Grupo-Abraxas**: [Grupo-Abraxas/javascript](https://github.com/Grupo-Abraxas/javascript)
+  - **Happeo**: [happeo/javascript](https://github.com/happeo/javascript)
   - **Honey**: [honeyscience/javascript](https://github.com/honeyscience/javascript)
   - **How About We**: [howaboutwe/javascript](https://github.com/howaboutwe/javascript-style-guide)
   - **Huballin**: [huballin](https://github.com/huballin/)
